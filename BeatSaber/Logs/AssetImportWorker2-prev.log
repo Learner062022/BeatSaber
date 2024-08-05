@@ -1,0 +1,579 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.20f1 (0e25a174756c) revision 927137'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalEducation' Language: 'en' Physical Memory: 32621 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/desoud/Desktop/BeatSaber/BeatSaber
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+14926
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/desoud/Desktop/BeatSaber/BeatSaber
+C:/Users/desoud/Desktop/BeatSaber/BeatSaber
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10400] Host "[IP] 172.20.23.212 [Port] 0 [Flags] 2 [Guid] 1609671460 [EditorId] 1609671460 [Version] 1048832 [Id] WindowsEditor(7,A103-12) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [10400] Host "[IP] 172.20.23.212 [Port] 0 [Flags] 2 [Guid] 1609671460 [EditorId] 1609671460 [Version] 1048832 [Id] WindowsEditor(7,A103-12) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.20f1 (0e25a174756c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/desoud/Desktop/BeatSaber/BeatSaber/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12143 MB
+    Driver:   30.0.14.7212
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.004298 seconds.
+- Loaded All Assemblies, in  0.303 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 148 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.440 seconds
+Domain Reload Profiling: 742ms
+	BeginReloadAssembly (99ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (126ms)
+		LoadAssemblies (98ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (124ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (112ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (441ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (395ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (231ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (113ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.648 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.480 seconds
+Domain Reload Profiling: 1125ms
+	BeginReloadAssembly (269ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (309ms)
+		LoadAssemblies (232ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (150ms)
+			TypeCache.Refresh (125ms)
+				TypeCache.ScanAssembly (113ms)
+			BuildScriptInfoCaches (18ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (480ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (335ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (18ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 4249 unused Assets / (1.1 MB). Loaded Objects now: 4829.
+Memory consumption went from 109.4 MB to 108.2 MB.
+Total: 8.488500 ms (FindLiveObjects: 0.510900 ms CreateObjectMapping: 0.617700 ms MarkObjects: 5.705600 ms  DeleteObjects: 1.652600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 596657.979895 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Interactable Velocity Tracked Wedge.prefab
+  artifactKey: Guid(d5615d616019430d9c2e8727e71c97fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Interactable Velocity Tracked Wedge.prefab using Guid(d5615d616019430d9c2e8727e71c97fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3c842ffdbc1145b9bf80c3e1eb68b64d') in 0.125171 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.314653 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(a5867b0aa1dfcda439ec0098244a1d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(a5867b0aa1dfcda439ec0098244a1d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17b527389e303f8b8f133f6885949459') in 0.0310296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.575720 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4a06fde8f14c37ce0c6ac5a26834440') in 0.0125889 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.570697 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e627735d9b26e6ce5f9925ea0408b79') in 0.0095533 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.291731 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01a0c0db39beab9c2fe2af9713c3a08e') in 0.0163263 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.830453 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a1c33851203952f3498b822dd3bc5a0') in 0.0158216 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.405794 seconds.
+  path: Assets/Cubes/Cube Variant Variant.prefab
+  artifactKey: Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant.prefab using Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af308565ddb3b24173b51d5ccb312579') in 0.0102255 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.098750 seconds.
+  path: Assets/Cubes/Cube Variant Variant.prefab
+  artifactKey: Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant.prefab using Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af3e1cd8929cf988a063287ac39a8919') in 0.012815 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.577751 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '85a2a37a6fd0f55d7c7652f1213f68e3') in 0.0090898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.407515 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '522067af410573341257d5d5218ead64') in 0.0120684 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.407299 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e5cc0ddccc8ca9bd4121a3096093ff1') in 0.0094672 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.776383 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c62d9e2a1599e3beba57522b15b80409') in 0.005688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.064934 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '576ea50ecb27b8f241a6abd5f14fc1b3') in 0.0048548 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.208419 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c89509a076b2e7ad5970451d6ee5980e') in 0.0091132 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.991914 seconds.
+  path: Assets/Weapons/Models/Blade/Blade.fbx
+  artifactKey: Guid(3a59546d2b9da6e4a94de850905f89a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Weapons/Models/Blade/Blade.fbx using Guid(3a59546d2b9da6e4a94de850905f89a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ddb77e78d779f1ae3d19d6d06cfe07db') in 0.0424528 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.789260 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1aadf4c48be339b8790e1f0fb6f6cd0b') in 0.0097284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.505514 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9271a542a4fecf2ddc51d7f03216f8ab') in 0.0137603 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.833541 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ef8c5b7bbc0dd38c10af8b3334887ef8') in 0.0076375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.593115 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79df93749ce1a4e00cc4b2604b850b1d') in 0.0164135 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.205777 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2807f5750572a65d53e0c8cc6e86c3ca') in 0.0094897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.966573 seconds.
+  path: Assets/Cubes/Cube Variant 1.prefab
+  artifactKey: Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1.prefab using Guid(a9e91f9404b108143bf11ceb8db2c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f10185eed36c740554d4c8f9efd053b') in 0.0108924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.699092 seconds.
+  path: Assets/Cubes/Cube Variant 1 Variant.prefab
+  artifactKey: Guid(c46c9262277651649ae59d2a4da69e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1 Variant.prefab using Guid(c46c9262277651649ae59d2a4da69e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6f01706bdd83f9a8f7c6403f08f661dd') in 0.0097612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.174019 seconds.
+  path: Assets/Cubes/Cube Variant 1 Variant.prefab
+  artifactKey: Guid(c46c9262277651649ae59d2a4da69e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1 Variant.prefab using Guid(c46c9262277651649ae59d2a4da69e9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'baf68b979bfbc79d5dba228c8cd97a18') in 0.0113206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.479290 seconds.
+  path: Assets/Cubes/Cube Variant 1 Variant 1.prefab
+  artifactKey: Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1 Variant 1.prefab using Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca347837edb5e1d17dd38209f84e1af1') in 0.0096564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.938961 seconds.
+  path: Assets/Cubes/Cube Variant 1 Variant 1.prefab
+  artifactKey: Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1 Variant 1.prefab using Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b1d21b310b79df29a682e121554c8c9') in 0.0109575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.365302 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '173839a306840fae4083ed91b0f60e70') in 0.0063922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '077a414498453c72313d60aae6014ec2') in 0.0109517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 322.772745 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '371132b9b6df7b0031d5ef8445d66336') in 0.0158508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f86d981b253884ed9dd23d0ceec931c') in 0.0228454 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.452239 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2302f36073f7f30cf4b12f5df060ec43') in 0.0062764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5396e1a5a017248f63a2ce0bc89fe1ed') in 0.0110118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 662.990333 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c59e9413aafb26f1e39761925b34fc2f') in 0.0076234 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e76cef4c684823abc788a8d719206bf0') in 0.0149818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 41
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.923789 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a0ca06c3c226fcdbba6a1a7a5ce2569') in 0.012009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b35677e28a30df80dcf9f9785f859099') in 0.0184538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.844299 seconds.
+  path: Assets/Materials/New Material 1.mat
+  artifactKey: Guid(4a7b5673f15d8814888ae81ef9caf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material 1.mat using Guid(4a7b5673f15d8814888ae81ef9caf9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd33901ab273a25621381a9b6f9d39a44') in 0.0112119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.553737 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c744f14b83420bd73c25b3877a3a2c0e') in 0.007989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0d8bf983b7b224f8456382bf3052e71') in 0.0072488 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.881017 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34286a8eec1f7312d805b998bdb3b4a1') in 0.0077193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5de68514771436e5dd7e14aad69e873a') in 0.0166937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.865093 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51c6efd22c827402e6f977f352386598') in 0.0177193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'adf0ddc3abf1bcb9e8f7930e8af081bf') in 0.0150654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.384536 seconds.
+  path: Assets/Cubes/Cube Variant.prefab
+  artifactKey: Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant.prefab using Guid(9cf47dcdf995a924ba0376b25373d65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2bec943b5c5ed08339b072099f70095a') in 0.0099573 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cubes/Cube Variant Variant 1.prefab
+  artifactKey: Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant 1.prefab using Guid(32f068b2f50ced44a9ba3f1ac46f6d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '66f47699c68ece793d715df61fa9233e') in 0.0060605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.745171 seconds.
+  path: Assets/Cubes/Cube.prefab
+  artifactKey: Guid(95bb13446e91b2a41a46c28c9b6a0da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube.prefab using Guid(95bb13446e91b2a41a46c28c9b6a0da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1da4fc59b0c89d6ee13a8a3aa3bec5f3') in 0.0117605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Cubes/Cube Variant Variant.prefab
+  artifactKey: Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant.prefab using Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '69936bae38ccdf637bce92d556334394') in 0.0070859 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Cubes/Cube Variant 1 Variant 1.prefab
+  artifactKey: Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1 Variant 1.prefab using Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d1190e97888a243d73d4ae9832a5567') in 0.0062207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.582999 seconds.
+  path: Assets/Cubes/Cube.prefab
+  artifactKey: Guid(95bb13446e91b2a41a46c28c9b6a0da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube.prefab using Guid(95bb13446e91b2a41a46c28c9b6a0da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec9b7b2af29c568867499169cc036e2c') in 0.0051073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001505 seconds.
+  path: Assets/Cubes/Cube Variant Variant.prefab
+  artifactKey: Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant Variant.prefab using Guid(99b66e6aa50ab524b9dd49826f827307) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f6029713b8de38ade9e5b91b7bf677e8') in 0.0068281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Cubes/Cube Variant 1 Variant 1.prefab
+  artifactKey: Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cubes/Cube Variant 1 Variant 1.prefab using Guid(4afadd276372cf04b827d8d25a57d081) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee0111d9df42575b02b1415f4aa6a0c1') in 0.0063381 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
